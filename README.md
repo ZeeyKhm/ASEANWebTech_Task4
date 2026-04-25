@@ -1,3 +1,16 @@
+# ASEANWebTech_Task4
+Server-Side Task
+
+Create a web application to help generate certificates for printing using a template and download a PDF file. 
+
+You can use any framework to choose from: with or without using the API. 
+
+You need to add your own functions (using AI) that are different from the example shown in the meeting. 
+
+It is allowed to use this project to take credit for previous classes, but subject to the development of a separate design and layout.
+
+In the report, you must specify the prompt used and which features have been added.
+
 # Certificate Generator - React + Vite
 
 A complete, fully-functional certificate generator web application built with React and Vite. Generate beautiful, professional certificates and download them as PDF files directly from your browser—no backend required!
